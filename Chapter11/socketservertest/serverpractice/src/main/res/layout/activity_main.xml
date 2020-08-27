@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btnOpenServer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Open server"/>
+
+    <EditText
+        android:id="@+id/iptext"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="server IP 입력"/>
+    <EditText
+        android:id="@+id/message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="서버에 보낼 메시지 입력"/>
+    <Button
+        android:id="@+id/btnConnectServer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Connect Server"/>
+    <Button
+        android:id="@+id/btnSendMessage"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SEND MESSAGE"/>
+    <TextView
+        android:id="@+id/result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+</LinearLayout>

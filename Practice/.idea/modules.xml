@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" group="Practice" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Practice/app" />
+      <module fileurl="file://$PROJECT_DIR$/intent_practice/intent_practice.iml" filepath="$PROJECT_DIR$/intent_practice/intent_practice.iml" group="Practice/intent_practice" />
+      <module fileurl="file://$PROJECT_DIR$/intentpractice2/intentpractice2.iml" filepath="$PROJECT_DIR$/intentpractice2/intentpractice2.iml" group="Practice/intentpractice2" />
+      <module fileurl="file://$PROJECT_DIR$/intentpractice4/intentpractice4.iml" filepath="$PROJECT_DIR$/intentpractice4/intentpractice4.iml" group="Practice/intentpractice4" />
+      <module fileurl="file://$PROJECT_DIR$/test1_practice/test1_practice.iml" filepath="$PROJECT_DIR$/test1_practice/test1_practice.iml" group="Practice/test1_practice" />
+      <module fileurl="file://$PROJECT_DIR$/test2_practice/test2_practice.iml" filepath="$PROJECT_DIR$/test2_practice/test2_practice.iml" group="Practice/test2_practice" />
+      <module fileurl="file://$PROJECT_DIR$/test3_practice/test3_practice.iml" filepath="$PROJECT_DIR$/test3_practice/test3_practice.iml" group="Practice/test3_practice" />
+      <module fileurl="file://$PROJECT_DIR$/test3_practice2/test3_practice2.iml" filepath="$PROJECT_DIR$/test3_practice2/test3_practice2.iml" group="Practice/test3_practice2" />
+      <module fileurl="file://$PROJECT_DIR$/test3_practice4/test3_practice4.iml" filepath="$PROJECT_DIR$/test3_practice4/test3_practice4.iml" group="Practice/test3_practice4" />
+      <module fileurl="file://$PROJECT_DIR$/test3_pratice3/test3_pratice3.iml" filepath="$PROJECT_DIR$/test3_pratice3/test3_pratice3.iml" group="Practice/test3_pratice3" />
+      <module fileurl="file://$PROJECT_DIR$/test3_test/test3_test.iml" filepath="$PROJECT_DIR$/test3_test/test3_test.iml" group="Practice/test3_test" />
+    </modules>
+  </component>
+</project>

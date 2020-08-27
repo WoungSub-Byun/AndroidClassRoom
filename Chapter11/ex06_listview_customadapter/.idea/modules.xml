@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Chapter11.iml" filepath="$PROJECT_DIR$/../Chapter11.iml" group="Chapter11" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" group="Chapter11/app" />
+      <module fileurl="file://$PROJECT_DIR$/../ex01_listview/ex01_listview.iml" filepath="$PROJECT_DIR$/../ex01_listview/ex01_listview.iml" group="Chapter11/ex01_listview" />
+      <module fileurl="file://$PROJECT_DIR$/../ex02_listview/ex02_listview.iml" filepath="$PROJECT_DIR$/../ex02_listview/ex02_listview.iml" group="Chapter11/ex02_listview" />
+      <module fileurl="file://$PROJECT_DIR$/../ex04_simpleadapter/ex04_simpleadapter.iml" filepath="$PROJECT_DIR$/../ex04_simpleadapter/ex04_simpleadapter.iml" group="Chapter11/ex04_simpleadapter" />
+      <module fileurl="file://$PROJECT_DIR$/../ex05_listview_simpleadapter/ex05_listview_simpleadapter.iml" filepath="$PROJECT_DIR$/../ex05_listview_simpleadapter/ex05_listview_simpleadapter.iml" group="Chapter11/ex05_listview_simpleadapter" />
+      <module fileurl="file://$PROJECT_DIR$/ex06_listview_customadapter.iml" filepath="$PROJECT_DIR$/ex06_listview_customadapter.iml" group="Chapter11/ex06_listview_customadapter" />
+      <module fileurl="file://$PROJECT_DIR$/../ex07_listview_customadapter/ex07_listview_customadapter.iml" filepath="$PROJECT_DIR$/../ex07_listview_customadapter/ex07_listview_customadapter.iml" group="Chapter11/ex07_listview_customadapter" />
+      <module fileurl="file://$PROJECT_DIR$/../ex08_spinner/ex08_spinner.iml" filepath="$PROJECT_DIR$/../ex08_spinner/ex08_spinner.iml" group="Chapter11/ex08_spinner" />
+      <module fileurl="file://$PROJECT_DIR$/../ex_03_listview_addmodifydelete/ex_03_listview_addmodifydelete.iml" filepath="$PROJECT_DIR$/../ex_03_listview_addmodifydelete/ex_03_listview_addmodifydelete.iml" group="Chapter11/ex_03_listview_addmodifydelete" />
+    </modules>
+  </component>
+</project>

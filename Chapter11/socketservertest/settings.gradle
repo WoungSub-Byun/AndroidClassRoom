@@ -1,0 +1,3 @@
+rootProject.name='socketservertest'
+include ':app'
+include ':serverpractice'

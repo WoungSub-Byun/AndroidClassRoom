@@ -1,0 +1,3 @@
+rootProject.name='Chapter12'
+include ':app'
+include ':ex01_service'
